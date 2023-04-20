@@ -1,0 +1,18 @@
+[map]
+Caption=-
+Section=-
+Section Indent=-
+Comment=-
+Word Big letters=-
+String '=-
+String "=-
+String `=-
+Ru=-
+En=-
+Number=-
+Symbol=-
+[comments]
+str1={
+str2=}
+styles_cmt=Comment
+styles_str=String
